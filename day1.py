@@ -1,0 +1,8 @@
+print("welcome to codegnan")
+print("-----------")
+print("my name is vamsi")
+print("i am coming from vizianagaram")
+print("i am studying B.SC data science")
+print("my graduction completed in 2026")
+print("my faverate game is cricket")
+print("-------")
