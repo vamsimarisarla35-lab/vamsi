@@ -48,15 +48,18 @@ print(list_0)
 
 list_4 = [1,2,3,["python"]]
 list_4.remove(2)
-print(list_4)'''
+print(list_4)
 
 
 list_4 = [1,2,3,["python"]]
 list_4.pop(2)
+print(list_4)'''
+
+
+list_4 = [1,2,3,["python"],["letter"]]
+list_4.pop("letter")
 print(list_4)
-
-
-
+ 
 
 
 
