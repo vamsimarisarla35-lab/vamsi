@@ -8,7 +8,7 @@ for j in range(1,11):
 #capitalize(), isdecimal(), islower(),isupper()
 
 
-'''an = "Python is a Programming Language"
+an = "Python is a Programming Language"
 count_U = 0
 count_L = 0
 for ch in an:
@@ -43,7 +43,7 @@ if len (icic_user_pin) ==4:
     else:
         print("you have entered invalid pin")
 else:
-    print("pls enter 4 digit pin")'''
+    print("pls enter 4 digit pin")
 
 
 
