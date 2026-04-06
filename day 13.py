@@ -1,4 +1,4 @@
-'''num = int(input("enter the numbere : "))
+num = int(input("enter the numbere : "))
 for j in range(num):
     for i in range(j):
         print("153",end = "")

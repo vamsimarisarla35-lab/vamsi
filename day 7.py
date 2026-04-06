@@ -1,4 +1,4 @@
-'''vowles_con = input("enter a lettert")
+vowles_con = input("enter a lettert")
   if vowles_con in "AEIOUaeiou":
       print("vow")
 
@@ -53,7 +53,7 @@ print(list_4)
 
 list_4 = [1,2,3,["python"]]
 list_4.pop(2)
-print(list_4)'''
+print(list_4)
 
 
 list_4 = [1,2,3,["python"],["letter"]]
