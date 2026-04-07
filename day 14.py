@@ -38,6 +38,9 @@ even_odd(a)'''
 
 
 #prime numbres in functions
+
+
+
 a = int(input("enter the number"))
 count = 0
 def prime_cheek(a,k):
