@@ -1,4 +1,4 @@
-'''#erquired origiments
+#erquired origiments
 #--------------------
 
 
@@ -35,7 +35,7 @@ prime_cheek(num = 7,count=0)
 
 def any(num ,num_2,num_3):
     print(f"num ={num},num_2 {num_2},num_3{"vamsi"}")
-any(num_2=7,num=0,num_3 = "vamsi")'''
+any(num_2=7,num=0,num_3 = "vamsi")
 
 
 def name(*candidate):
