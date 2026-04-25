@@ -1,4 +1,4 @@
-'''#ENCAPSULATION
+o #ENCAPSULATION
 -------------
 --->THE PRINCIPLE OF BUNDING DATA(ATTRIBUTES) AND METHODS THAT OPERATE ON THAT DATA INTO A SINGLE UNIT, WHICH IS CLASS.
 
@@ -111,7 +111,7 @@ thing = child_3()
 thing.parent_()
 thing.child_()
 thing._child()
-thing.child()'''
+thing.child()
 
 
 HYBRID INHERITANCE
